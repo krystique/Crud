@@ -38,7 +38,7 @@
 		</nav>
         <div class="pull-left">
 			<div class="mt-4">
-                <h2 style="text-align: center">Teachers CRUD System</h2>
+                <h2 style="text-align: center">Teachers' CRUD System</h2>
             </div>            
             <div class="row">
                 <div class="pull-right">
